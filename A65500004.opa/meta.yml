@@ -1,0 +1,21 @@
+id: A65500004
+title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+type: translation
+pechas:
+- I83DADD02
+- I624F9CD3
+- I892C569C
+- IA9A25ACA
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:00:43.926740
+  last_modified_at: 2023-02-08 15:00:43.926755
+alignment_to_base:
+  I83DADD02/8010: 4A4F
+  I624F9CD3/DDC7: 4A4F
+  I892C569C/4220: 4A4F
+  IA9A25ACA/9466: 4A4F
